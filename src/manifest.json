@@ -23,19 +23,19 @@
       }
     ],
     "web_accessible_resources": [
-       "bark_48.png"
+       "images/bark_48.png"
      ],
     "icons": {
-        "16": "bark_16.png",
-        "48": "bark_48.png",
-        "128": "bark_128.png"
+        "16": "images/bark_16.png",
+        "48": "images/bark_48.png",
+        "128": "images/bark_128.png"
     },
     "options_page": "options.html",
     "browser_action": {
         "default_icon": {
-            "16": "bark_16.png",
-            "48": "bark_48.png",
-            "128": "bark_128.png"
+            "16": "images/bark_16.png",
+            "48": "images/bark_48.png",
+            "128": "images/bark_128.png"
         },
         "default_title": "Bark"
     }
