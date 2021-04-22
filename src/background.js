@@ -181,7 +181,7 @@ function registerContextMenus() {
 			console.log("items" + items[0]);
 			for (const it of items.server_urls) {
 				chrome.contextMenus.create({
-					title: "Push To Device " + it.server_name,
+					title: "Push To " + it.server_name,
 					// contexts: ["selection"],
 					onclick: getword,
 					id: it.server_url
